@@ -1,12 +1,12 @@
 {
-  "export_job_id": "74d60c0a-668e-4c83-a657-86adec6df4b6",
+  "export_job_id": "3f69ed45-0258-4129-98fb-d6e2e4197cf8",
   "id_short": 526074,
-  "published_at": "2026-04-18T07:19:32Z",
+  "published_at": "2026-04-22T07:37:09Z",
   "repo_name": "the-hhi-monopoly-index-for-new-mexico-us-sample-526074",
   "sample_asset_name": "beamstation_526074_restaurants-us-nm_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/526074/beamstation_526074_restaurants-us-nm_SAMPLE_DIST.csv",
-  "sample_records": 18,
-  "sample_sha256": "ec96c6f024e8bcac2af9c337ef610d09eee49d1a575bf173f18ef334a131ba18",
-  "sample_size_bytes": 83847,
-  "total_records": 186
+  "sample_records": 11,
+  "sample_sha256": "29f49bd8a6bc082205f211cb60a33e469ac2c76931380ba17648bf810fc0eb5d",
+  "sample_size_bytes": 53294,
+  "total_records": 118
 }
